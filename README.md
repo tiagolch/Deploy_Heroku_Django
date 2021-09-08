@@ -8,7 +8,7 @@
     * sudo snap install --classic heroku [link](https://devcenter.heroku.com/articles/heroku-cli)
     * heroku login
 	* git init
-	* heroku git:remote -a <nome-do-projeto>
+	* heroku git:remote -a \<nome-do-projeto\>
   
 3. Instalando o Gunicorn para servir a aplicação no Heroku
 	* pip install gunicorn
