@@ -18,7 +18,7 @@
 	* Em settings importar
 		* import django_on_heroku
 	* No Final do arquivo settings colocar
-		* django_on_heroku.settings(lodals())
+		* django_on_heroku.settings(locals())
   
 5. [Desacoplando as variáveis de ambiente](https://pypi.org/project/python-decouple/)
 	* Instalar o python-decouple:
