@@ -44,7 +44,7 @@
 8. Configurando o arquivo Procfile
 	* Criar arquivo Procfile na raiz do projeto.
 	* inserir no arquivo o seguinte:
-		* web: gunicorn <nomedoprojeto>.wsgi --log-file -
+		* web: gunicorn \<nomedoprojeto\>.wsgi --log-file -
   
 9. Criar .gitignore na raiz do projeto
 	* Adicionar no arquivo o seguinte:
